@@ -1,0 +1,62 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings folder
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Python virtual environments
+.env/
+.env.bak/
+
+# Pytest cache
+.pytest_cache/
+
+# mypy cache
+.mypy_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# pipenv
+Pipfile.lock
+
+# IDE files
+.idea/
+*.iml
+
+# Backup files
+*.bak
+*~
+
+# Optional: If you use any data files, you may want to ignore large data files or output folders
+# data/
+# output/
