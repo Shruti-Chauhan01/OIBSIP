@@ -57,7 +57,7 @@ Each task is organized into its own folder with the following contents:
 ## 📬 Contact
 
 **Name:** Shruti Chauhan  
-**Email:** [shrutihcauhan0086@gmail.com]  
+**Email:** [shrutichauhan0086@gmail.com]  
 **LinkedIn:** [linkedin.com](https://www.linkedin.com/in/shruti-chauhan-35b082338/)  
 **GitHub:** [github.com](https://github.com/Shruti-Chauhan01)
 
